@@ -1,5 +1,10 @@
-# Blender python code for generating a paraboloid and approximations of it by disks and washers.
+# SmoothDisksShells.py:
+#   Blender python code for generating a paraboloid and approximations of it by disks and washers.
+#
+# Provided under the MIT 2.0 License.
+#
 # Author: Athena Sparks
+# Contact: athena.sparks@colorado.edu
 #
 # To run, open a Text Editor view in Blender, open this file, then press the "Run Script" button.
 

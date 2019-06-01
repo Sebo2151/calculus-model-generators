@@ -1,5 +1,10 @@
-# Blender python script for generating solids with given cross-sections.
+# KnownCrossSections.py:
+#   Blender python script for generating solids with given cross-sections.
+#
+# Provided under the MIT 2.0 License.
+#
 # Authors: Sebastian Bozlee, Athena Sparks
+# Contact: sebastian.bozlee@colorado.edu, athena.sparks@colorado.edu
 #
 # To run, open a Text Editor view in Blender, open this file, then press the "Run Script" button.
 #
